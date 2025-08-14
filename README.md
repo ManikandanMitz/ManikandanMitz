@@ -3,9 +3,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
